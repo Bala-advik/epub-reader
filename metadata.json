@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Read & Edit",
+  "description": "A visually stunning, AI-powered EPUB viewer and editor. Upload any EPUB to read in a distraction-free environment, edit metadata, and use Gemini to summarize chapters or explain concepts.",
+  "requestFramePermissions": []
+}
